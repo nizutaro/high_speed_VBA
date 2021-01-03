@@ -48,6 +48,8 @@ End Sub
 
 
 Sub 配列_vlookup_改良()
+
+'配列プログラム
     Dim i As Long, j As Long
     Dim n As Long
     Dim B As Variant
